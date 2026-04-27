@@ -5,4 +5,4 @@
 possicionamento de imagem e texto.</p>
 <br>
 <br>
-<img src="
+<img src="https://github.com/SamuelPitta/projetowecare/blob/main/trabalho%20css.jpg?raw=true"</>
